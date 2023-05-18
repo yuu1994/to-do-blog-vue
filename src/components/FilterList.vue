@@ -32,11 +32,12 @@ export default {
 .filter div button {
     background-color: transparent;
     border-radius: 0;
-    color: rgb(196, 190, 190);
+    color: rgb(94, 88, 88);
     font-weight: 700;
     border-bottom: 2px solid transparent;
 }
 .check{
     border-bottom: 2px solid #6be293 !important;
+    color: rgb(196, 190, 190) !important;
 }
 </style>

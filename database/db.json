@@ -3,7 +3,7 @@
     {
       "title": "update 2",
       "detail": "test 1 update 2",
-      "finished": false,
+      "finished": true,
       "id": 1
     },
     {

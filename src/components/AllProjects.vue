@@ -24,7 +24,7 @@ export default {
     return {
       lists: [],
       search: "",
-      check : ""
+      check : "all"
     };
   },
   methods: {
